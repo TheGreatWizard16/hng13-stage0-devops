@@ -51,8 +51,4 @@ Deployed: October 17, 2025
 - The server remains **live until grading is complete**.  
 - Custom HTML is publicly visible at the provided IP address.  
 
----
 
-### 💡 Author’s Remark
-> “Deployment isn’t done until it’s visible to the world.”  
-> — Segun Oladimeji
