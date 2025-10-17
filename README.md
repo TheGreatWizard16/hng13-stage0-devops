@@ -1,4 +1,4 @@
-# 🚀 HNG13 DevOps Stage 0 — NGINX Deployment
+# 🚀 HNG13 DevOps Stage 0 : NGINX Deployment
 
 ## 👤 Author
 **Name:** Segun Oladimeji  
