@@ -17,9 +17,9 @@ The goal of this task is to demonstrate basic **DevOps deployment skills** by:
 ---
 
 ## ⚙️ Deployment Details
-Server IP/Domain: http://3.94.143.250/
-Hosting Platform: AWS EC2
-Deployment Date: October 17, 2025
+**Server IP/Domain:** http://3.94.143.250/
+**Hosting Platform:** AWS EC2
+**Deployment Date:** October 17, 2025
   
 
 ---
